@@ -35,19 +35,20 @@ $ python manage.py migrate
 $ python manage.py runserver
 ```
 
-Output
-#### Main Page
-<img width="1440" alt="main-page" src="https://user-images.githubusercontent.com/63863797/154906807-4fb39e70-28d7-43d6-9f8c-55e7fddd699d.png">
+### Output
 
-#### Add task
-<img width="1430" alt="Add_to_list" src="https://user-images.githubusercontent.com/63863797/154907172-d9be053f-c14a-4b19-af77-9033316a7bf1.png">
+#### To do List Main Page
+<img width="1439" alt="image" src="https://user-images.githubusercontent.com/63863797/155272303-74322e30-d35c-47c3-98d1-25151003facb.png">
+
+#### Search Task
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/63863797/155272401-fded6af4-d998-4af9-8616-675619109079.png">
 
 #### Update Task
-<img width="1413" alt="image" src="https://user-images.githubusercontent.com/63863797/154907540-cddc73b3-9688-4939-9fef-8fcf314fe04e.png">
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/63863797/155273036-a52fe88e-49ae-4334-a3b5-41cdf6ab892f.png">
 
 #### Delete Task
-<img width="1410" alt="image" src="https://user-images.githubusercontent.com/63863797/154907575-b94ce82b-65c8-429c-9edc-8d4f04af1d15.png">
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/63863797/155273173-22cd3c86-66c8-42c3-b4d6-11b9d9bb815a.png">
 
-#### Error Page
-<img width="1407" alt="image" src="https://user-images.githubusercontent.com/63863797/154907680-3c28584e-eeee-4b66-99f1-3e7e6e98549a.png">
+#### View Task
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/63863797/155273314-2e56f155-0926-4b99-a91d-1bd1fad9989d.png">
 
