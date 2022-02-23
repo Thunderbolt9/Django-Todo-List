@@ -24,7 +24,7 @@ $ pip install django
 #### 4. Clone my repo in Django-Project folder
 
 ```console
-$ git clone https://github.com/dikshantj/todo-list.git 
+$ git clone https://github.com/Thunderbolt9/Django-Todo-List.git
 $ Rename this folder to todo
 $ cd todo
 $ python manage.py migrate
