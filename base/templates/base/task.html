@@ -1,0 +1,11 @@
+{% extends 'base/main.html' %} {% block content %}
+<div class="bg-light w-50 m-auto rounded mt-5 p-3">
+  <h2 class="text-center fw-bolder">Task Details</h2>
+  <div style="margin-left: 2rem; margin-top: 2rem">
+    <h4>Task: {{task}}</h4>
+    <p style="margin-top: 1.5rem"><h5>Description:</h5> {{task.description}}</p>
+    <a style="text-decoration: none;" href="{% url 'tasks' %}">&#8592; Go back</a>
+  </div>
+  
+</div>
+{% endblock content %}
